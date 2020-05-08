@@ -1,0 +1,8 @@
+spring:
+  rabbitmq:
+    host: 192.168.21.150
+    port: 5672
+    username: guest
+    password: guest
+    virtualHost: /
+    publisherConfirms: true
